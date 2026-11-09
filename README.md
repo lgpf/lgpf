@@ -8,6 +8,8 @@ By day I lead QA teams and test strategy. In my spare time I reverse-engineer, d
 
 | Project | What it is |
 |---|---|
+| [**xpc-esp32**](https://github.com/lgpf/xpc-esp32) | A PC/XT on a TTGO VGA32 (ESP32): MS-DOS, CGA/Hercules/EGA, AdLib, Windows 3.0 — a tribute to the Brazilian Cobra XPC |
+| [**xpc-minimodem**](https://github.com/lgpf/xpc-minimodem) | A WiFi Hayes modem (WeMos D1 mini) that plugs into the XPC's PS/2 mouse port, with dial tones and handshake sounds |
 | [**sox-x20**](https://github.com/lgpf/sox-x20) | A bootable recreation of SOX, the Unix-like OS of Cobra's X20 computers (1980s Brazil), for 486–Pentium PCs |
 | [**CP500M80**](https://github.com/lgpf/CP500M80) | Emulator for the Prológica CP-500 M80 (TRS-80 Model III clone with 80-column CP/M) |
 | [**ringo470**](https://github.com/lgpf/ringo470) | Emulator for the Ringo R-470, a Brazilian ZX81-class computer |
