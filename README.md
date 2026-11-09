@@ -14,7 +14,7 @@ By day I lead QA teams and test strategy. In my spare time I reverse-engineer, d
 | [**CP500M80**](https://github.com/lgpf/CP500M80) | Emulator for the Prológica CP-500 M80 (TRS-80 Model III clone with 80-column CP/M) |
 | [**ringo470**](https://github.com/lgpf/ringo470) | Emulator for the Ringo R-470, a Brazilian ZX81-class computer |
 | [**RetroWiFiModem**](https://github.com/lgpf/RetroWiFiModem) | Wi-Fi modem for vintage computers |
-| [**AdLibTL074**](https://github.com/lgpf/AdLibTL074) | Reproduction AdLib sound card circuitry |
+| [**AdLibTL074**](https://github.com/lgpf/AdLibTL074) | Reproduction AdLib sound card circuitry adjusted to use TL074 instead RC4136N|
 | [**anvil3d**](https://github.com/lgpf/anvil3d) | A local Windows CAD tool with editable history and plugins, in the style of Tinkercad |
 
 ### 🛠️ Toolbox
